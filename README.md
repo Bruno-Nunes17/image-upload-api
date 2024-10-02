@@ -43,7 +43,7 @@ Tendo gerado a string, procure pelo arquivo .env.example e siga o passo a passo 
 
 Considerando que você executou as etapas acima com êxito, abra o seu terminal e rode os seguintes comandos em suas respectivas ordens:
 
-- `git clone https://github.com/Bruno-Nunes17/api-de-upload-de-imagem`
+- `git clone https://github.com/Bruno-Nunes17/image-upload-api`
 - `cd upload-api`
 - `npm install`
 - `npm start` or `npm run dev`
