@@ -55,4 +55,4 @@ Pronto! a API estará rodando na porta 3000. Caso você deseje alterar para outr
 Método para fazer upload de imagem. Você deve enviar no corpo da requisição um campo "file" contendo o arquivo. <br/>
 
 `GET /photos`:  <br/>
-Método para Listar Uploads Realizados Nessa Ferramenta. Ele retorna a url do arquivo, nome original e tamanho. <br/>
+Método para Listar Uploads Realizados. Ele retorna um string do arquivo no formato base64 e nome original. <br/>
