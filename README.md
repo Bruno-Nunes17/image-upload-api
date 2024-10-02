@@ -51,7 +51,7 @@ Considerando que você executou as etapas acima com êxito, abra o seu terminal 
 Pronto! a API estará rodando na porta 3000. Caso você deseje alterar para outra porta, basta adicionar ao aquivo .env do projeto como no exemplo a seguir: `PORT=4000`.
 ### Edpoints
 
-`POST /uploads`: <br/>
+`POST /upload`: <br/>
 Método para fazer upload de imagem. Você deve enviar no corpo da requisição um campo "file" contendo o arquivo. <br/>
 
 `GET /photos`:  <br/>
